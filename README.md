@@ -1,4 +1,4 @@
-# PostMan - Collection -API
+# PostMan
 Tên Dự Án: Test Collection of APIs
 
 Ngày Kiểm Thử: 28/05/2024
